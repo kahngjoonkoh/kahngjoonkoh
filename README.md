@@ -23,6 +23,7 @@
 
 ## Side Projects
 * Chess with Python and Tkinter
+* playlist generator with mp3 tag edit made with Python.
 
 
 ## Arduino Projects (C++)
