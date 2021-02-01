@@ -23,7 +23,9 @@
 
 ## Side Projects
 * Chess with Python and Tkinter
-* playlist generator with mp3 tag edit made with Python.
+* playlist generator with Python
+* Stock trade backtracker with Python
+* Algorithmetic Trading with Python and quantiacsToolbox
 
 
 ## Arduino Projects (C++)
