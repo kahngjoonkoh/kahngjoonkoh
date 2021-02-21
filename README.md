@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DT Contextual Challenges for GCSE 2020-2021
-- 🌱 I’m currently learning Algorithms and Electronics
+- 🔭 I’m currently working on my GCSE's
+- 🌱 I’m currently learning Android Programming
 - 👯 I’m looking to collaborate on Algorithm Study Groups
 - 🤔 I’m looking for help with How GOPATH and its file system works
 - 💬 Ask me about Anything
@@ -32,3 +32,6 @@
 * 6502 Computer build -> Credit to Ben Eater
 * Alarm system using ultrasonic censors with Arduino
 * LCD clock with Arduino
+
+## Android Projects (Kotlin)
+* Android Basics (Google Android Developers)
