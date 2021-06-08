@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my GCSE's
+- 🔭 I’m currently working on my A Levels
 - 🌱 I’m currently learning Android Programming
 - 👯 I’m looking to collaborate on Algorithm Study Groups
-- 🤔 I’m looking for help with How GOPATH and its file system works
+- 🤔 I’m looking for help with Golang
 - 💬 Ask me about Anything
 - 📫 How to reach me: kahngjoonk@gmail.com
-- 😄 Favourite Quote: It's good to have big dreams. Even if your dream is shattered, the shattered pieces are still big.
+- 😄 Favourite Quote: Shoot for the moon. Even if you miss, you'll land among the stars.
 - ⚡ Fun fact: Started coding from Scratch XD
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kahngjoonkoh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -20,6 +20,9 @@
 * Web Painter with Javascript
 * Job Scraper with Golang
 * Job Scraper with Python
+
+## School Projects
+* DT Contextual Challenge 2020-2021 Arduino programming
 
 ## Side Projects
 * Chess with Python and Tkinter
