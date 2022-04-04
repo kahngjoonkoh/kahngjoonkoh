@@ -32,7 +32,7 @@
 
 
 ## Arduino Projects (C++)
-* 6502 Computer build -> Credit to Ben Eater
+* 6502 Computer build (assembly language) -> Credit to Ben Eater
 * Alarm system using ultrasonic censors with Arduino
 * LCD clock with Arduino
 
