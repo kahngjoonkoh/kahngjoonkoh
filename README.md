@@ -7,7 +7,7 @@
 - 💬 Ask me about Anything
 - 📫 How to reach me: kahngjoonk@gmail.com
 - 😄 Favourite Quote: Shoot for the moon. Even if you miss, you'll land among the stars.
-- ⚡ Fun fact: Started coding from Scratch XD
+- ⚡ Fun fact: Started coding from Scratch XD (Yes, the cat)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kahngjoonkoh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -28,7 +28,8 @@
 * Chess with Python and Tkinter
 * playlist generator with Python
 * Stock trade backtracker with Python
-* Algorithmetic Trading with Python and quantiacsToolbox
+
+* Algorithmetic Trading with Python and quantiacsToolbox (in progress)
 
 
 ## Arduino Projects (C++)
