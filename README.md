@@ -28,7 +28,6 @@
 * Chess with Python and Tkinter
 * playlist generator with Python
 * Stock trade backtracker with Python
-
 * Algorithmetic Trading with Python and quantiacsToolbox (in progress)
 
 
