@@ -8,11 +8,12 @@
 - 🌱 I’m currently learning NLP
 - 👯 I’m looking to collaborate on Qiskit-Terra
 - 👨🏻‍💻 Most of my projects are available on <a href='https://github.com/kahngjoonkoh?tab=repositories'>Github</a>
-- 📫 How to reach me: kahngjoonk@gmail.com
 - 😄 Favourite Quote: *Fear kills more dreams than failure ever will*
 - ⚡ Fun fact: Started coding from Scratch (Yes, the cat)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kahngjoonkoh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahngjoonkoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Side Projects
 * Chess with Python and Tkinter
@@ -48,8 +49,5 @@
 * sudoku solver
 * stock trading bot
 * Algorithmetic Trading with Python and quantiacsToolbox
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahngjoonkoh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![](https://komarev.com/ghpvc/?username=kahngjoonkoh&color=03fcd3&style=flat-square)
