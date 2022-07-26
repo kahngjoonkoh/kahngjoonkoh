@@ -24,7 +24,7 @@
 | Battery Manager | Python | [Link](https://github.com/kahngjoonkoh/BatteryManager)|
 | Chess Program | Python, Tkinter | [Link](https://github.com/kahngjoonkoh/python-chess)|
 | Bloodlust minecraft mod | MCreator, Java | [Link](https://github.com/kahngjoonkoh/bloodlust_mod)|
-| Air Drawing | Python, Mediapipe | [Link](https://github.com/kahngjoonkoh/Air-Drawing)|
+| Air Drawing | Python, Mediapipe, OpenCV, Numpy | [Link](https://github.com/kahngjoonkoh/Air-Drawing)|
 | Song Info Standarizer | Python, Selenium, Multiprocessing | [Link](https://github.com/kahngjoonkoh/SongInfoStandardizer)|
 | Random Shape Generator | Python, OpenCV, Numpy, Threading, Tkinter | [Link](https://github.com/kahngjoonkoh/RandomShapeGenerator)|
 
