@@ -35,7 +35,7 @@
 | Project | Technologies | Link |
 | :--- |:---|:---|
 | Increasing Awareness of Climate Emergency | SketchUp, KiCad, Arduino, 2D Design | [Link](https://github.com/kahngjoonkoh/DT-Contextual-Challenges-2020-2021)|
-| Ondes Martenot | Solidworks, Arduino | [Link](https://github.com/kahngjoonkoh/OndesMartenot) |
+| Ondes Martenot | Solidworks, Arduino, Numpy, PyAudio | [Link](https://github.com/kahngjoonkoh/OndesMartenot) |
 
 ## Learning-by-doing Projects
 | Project | Technologies | Link |
