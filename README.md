@@ -20,16 +20,15 @@
 | :--- |:---|:---|
 | Guppy chess engine | Python | [Link](https://github.com/kahngjoonkoh/guppy)|
 | Inkspect | Python, Flask, SQLite3, Javascript, HTML5, CSS3 | [Link](https://github.com/kahngjoonkoh/Inkspect)|
-| SAT Vocab App | Python, Tkinter | [Link](https://github.com/kahngjoonkoh/SAT_word_list)|
+| SAT Vocab App | Python, Tkinter, Threading | [Link](https://github.com/kahngjoonkoh/SAT_word_list)|
 | Battery Manager | Python | [Link](https://github.com/kahngjoonkoh/BatteryManager)|
 | Chess Program | Python, Tkinter | [Link](https://github.com/kahngjoonkoh/python-chess)|
 | Bloodlust minecraft mod | MCreator, Java | [Link](https://github.com/kahngjoonkoh/bloodlust_mod)|
 | Air Drawing | Python, Mediapipe, OpenCV, Numpy | [Link](https://github.com/kahngjoonkoh/Air-Drawing)|
 | Song Info Standarizer | Python, Selenium, Multiprocessing | [Link](https://github.com/kahngjoonkoh/SongInfoStandardizer)|
 | Random Shape Generator | Python, OpenCV, Numpy, Threading, Tkinter | [Link](https://github.com/kahngjoonkoh/RandomShapeGenerator)|
-
-* playlist generator with Python
-* Stock trade backtracker with Python
+| Revision App | Android Studio, Kotlin | [Link](https://github.com/kahngjoonkoh/revision-app)|
+| Playlist Generator | Python, Threading, Multiprocessing, FFMPEG | [Link](https://github.com/kahngjoonkoh/YouTube-to-Audio-File-Converter)|
 
 ## Design Projects
 | Project | Technologies | Link |
@@ -50,9 +49,7 @@
 | Movie App | React, Javascript, HTML5, CSS3 | [Link](https://github.com/kahngjoonkoh/react-movie-app)|
 | Blockchain | Typescript | [Link](https://github.com/kahngjoonkoh/blockchain-with-typescript)|
 | Physics Simulation | Godot, GDScript | [Link](https://github.com/kahngjoonkoh/godot-collision-game)|
-
-* Android Basics (Google Android Developers)
-* Revision app template
+| Android Basics | Android Studio, Kotlin | [Link](https://github.com/kahngjoonkoh/android-with-kotlin)|
 
 ## In Progress
 * 4d simulator with godot
