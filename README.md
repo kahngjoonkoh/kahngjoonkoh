@@ -25,6 +25,7 @@
 | Chess Program | Python, Tkinter | [Link](https://github.com/kahngjoonkoh/python-chess)|
 | Bloodlust minecraft mod | MCreator, Java | [Link](https://github.com/kahngjoonkoh/bloodlust_mod)|
 | Air Drawing | Python, Mediapipe | [Link](https://github.com/kahngjoonkoh/Air-Drawing)|
+| Song Info Standarizer | Python, Selenium, Multiprocessing | [Link](https://github.com/kahngjoonkoh/SongInfoStandardizer)|
 
 * playlist generator with Python
 * Stock trade backtracker with Python
