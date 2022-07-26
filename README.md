@@ -33,12 +33,12 @@
 | Project | Technologies | Link |
 | :--- |:---|:---|
 | Increasing Awareness of Climate Emergency | SketchUp, KiCad, Arduino, 2D Design | [Link](https://github.com/kahngjoonkoh/DT-Contextual-Challenges-2020-2021)|
-| Ondes Martenot | Solidworks, Arduino ||
+| Ondes Martenot | Solidworks, Arduino | [Link](https://github.com/kahngjoonkoh/OndesMartenot) |
 
 ## Learning-by-doing Projects
 | Project | Technologies | Link |
 | :--- |:---|:---|
-| 6502 Microcontroller Computer | Assembly, KiCad ||
+| 6502 Microcontroller Computer | Assembly, KiCad |[Link](https://github.com/kahngjoonkoh/6502-Computer)|
 | Ultrasonic Sensor Alarm | Arduino | [Link](https://github.com/kahngjoonkoh/ultrasonic-sensor-alarm)|
 | LCD clock | Arduino | [Link](https://github.com/kahngjoonkoh/lcd-clock)|
 | Job Scraper with Go | Go, Echo, goQuery, HTML5 | [Link](https://github.com/kahngjoonkoh/go-job-scraper)|
