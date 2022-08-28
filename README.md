@@ -13,7 +13,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kahngjoonkoh&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahngjoonkoh&layout=compact&langs_count=10&hide=roff,tex,html,css,gap,batchfile,powershell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kahngjoonkoh&layout=compact&langs_count=10&hide=roff,tex,html,css,gap,batchfile,powershell,purebasic)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
 | Project | Technologies | Link |
