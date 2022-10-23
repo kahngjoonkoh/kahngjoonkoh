@@ -19,7 +19,6 @@
 | Project | Technologies | Link |
 | :--- |:---|:---|
 | Guppy chess engine | Python | [Link](https://github.com/kahngjoonkoh/guppy)|
-| Inkspect | Python, Flask, SQLite3, Javascript, HTML5, CSS3 | [Link](https://github.com/kahngjoonkoh/Inkspect)|
 | SAT Vocab App | Python, Tkinter, Threading | [Link](https://github.com/kahngjoonkoh/SAT_word_list)|
 | Battery Manager | Python | [Link](https://github.com/kahngjoonkoh/BatteryManager)|
 | Chess Program | Python, Tkinter | [Link](https://github.com/kahngjoonkoh/python-chess)|
@@ -52,6 +51,9 @@
 | Android Basics | Android Studio, Kotlin | [Link](https://github.com/kahngjoonkoh/android-with-kotlin)|
 
 ## In Progress
+| Project | Technologies | Link |
+| :--- |:---|:---|
+| Inkspect | Python, Flask, SQLite3, Javascript, HTML5, CSS3 | [Link](https://github.com/kahngjoonkoh/Inkspect)|
 * 4d simulator with godot
 * sudoku solver
 * stocks backtester
