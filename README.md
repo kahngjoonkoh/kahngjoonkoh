@@ -4,9 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-kahngjoonk@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kahngjoonk@gmail.com)](mailto:kahngjoonk@gmail.com)
 
 ### 🧐 About Me:
-- 🔭 I’m currently working on the **Guppy chess engine**
-- 🌱 I’m currently learning NLP
-- 👯 I’m looking to collaborate on Qiskit-Terra
+- 🔭 I’m currently working on a **4D Simulator**
+- 🌱 I’m currently learning Matrices and Linear Transformation
+- 👯 I’m looking to collaborate on Qiskit-Terra and Open Library
 - 👨🏻‍💻 Most of my projects are available on <a href='https://github.com/kahngjoonkoh?tab=repositories'>Github</a>
 - 😄 Favourite Quote: *Fear kills more dreams than failure ever will*
 - ⚡ Fun fact: Started coding from Scratch (Yes, the cat)
