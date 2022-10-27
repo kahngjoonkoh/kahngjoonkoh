@@ -53,8 +53,8 @@
 ## In Progress
 | Project | Technologies | Link |
 | :--- |:---|:---|
+| 4D Simulator | Godot, C++ | N/A |
 | Inkspect | Python, Flask, SQLite3, Javascript, HTML5, CSS3 | [Link](https://github.com/kahngjoonkoh/Inkspect)|
-* 4d simulator with godot
 * sudoku solver
 * stocks backtester
 * Algorithmetic Trading with Python and quantiacsToolbox
