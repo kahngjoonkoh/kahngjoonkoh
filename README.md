@@ -19,6 +19,7 @@
 | Project | Technologies | Link |
 | :--- |:---|:---|
 | Guppy chess engine | Python | [Link](https://github.com/kahngjoonkoh/guppy)|
+| Physics Simulator | Python, Pygame | [Link](https://github.com/kahngjoonkoh/) |
 | SAT Vocab App | Python, Tkinter, Threading | [Link](https://github.com/kahngjoonkoh/SAT_word_list)|
 | Battery Manager | Python | [Link](https://github.com/kahngjoonkoh/BatteryManager)|
 | Chess Program | Python, Tkinter | [Link](https://github.com/kahngjoonkoh/python-chess)|
